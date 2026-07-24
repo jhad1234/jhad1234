@@ -1,16 +1,26 @@
-## Hi there 👋
+# مرحباً بك في ملفي الشخصي على GitHub! 👋
 
-<!--
-**jhad1234/jhad1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+أنا **jhad1234**، مطور شغوف بالتقنية والابتكار. أهتم بشكل خاص بتطوير أنظمة الذكاء الاصطناعي وتطبيقات الأندرويد.
 
-Here are some ideas to get you started:
+## عني:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+أعمل على بناء حلول برمجية مبتكرة وأحب استكشاف التقنيات الجديدة. أؤمن بقوة التعلم المستمر والمساهمة في مجتمع المصادر المفتوحة.
+
+## مهاراتي:
+
+*   **لغات البرمجة**: Kotlin, Python, Java
+*   **تطوير الأندرويد**: Android Studio, Jetpack Compose
+*   **الذكاء الاصطناعي**: التعلم الآلي، معالجة اللغات الطبيعية (NLP)
+*   **أدوات**: Git, GitHub, Docker
+
+## مشاريعي المميزة:
+
+*   **AI-Android-Dev-System**: منصة ذكاء اصطناعي ذاتية التطور تعمل كنظام تشغيل خفيف على أندرويد، تعتمد على وكلاء ذكيين (AI Agents) لتنفيذ الأوامر، تطوير المشاريع، وإدارة النظام بشكل لحظي وتكيفي عبر التعلم المستمر والأتمتة الذكية.
+
+## تواصل معي:
+
+تفضل بالتواصل معي عبر [GitHub](https://github.com/jhad1234) أو [LinkedIn](https://www.linkedin.com/in/jhad1234) (إذا كان لديك حساب LinkedIn وترغب في إضافته).
+
+--- 
+
+**"الابتكار يميز بين القائد والتابع."** - ستيف جوبز
