@@ -17,6 +17,12 @@
 
 *   **AI-Android-Dev-System**: منصة ذكاء اصطناعي ذاتية التطور تعمل كنظام تشغيل خفيف على أندرويد، تعتمد على وكلاء ذكيين (AI Agents) لتنفيذ الأوامر، تطوير المشاريع، وإدارة النظام بشكل لحظي وتكيفي عبر التعلم المستمر والأتمتة الذكية.
 
+## إحصائيات GitHub:
+
+[![إحصائيات GitHub](https://github-readme-stats.vercel.app/api?username=jhad1234&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![أكثر اللغات استخداماً](https://github-readme-stats.vercel.app/api/top-langs/?username=jhad1234&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ## تواصل معي:
 
 تفضل بالتواصل معي عبر [GitHub](https://github.com/jhad1234) أو [LinkedIn](https://www.linkedin.com/in/jhad1234) (إذا كان لديك حساب LinkedIn وترغب في إضافته).
