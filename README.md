@@ -1,7 +1,18 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnZ4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z/mgXwZ8Z8Z8Z8Z8Z8Z8/giphy.gif" width="30"> مرحباً بك، أنا جهاد (jhad1234)
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnZ4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z/mgXwZ8Z8Z8Z8Z8Z8Z8Z8/giphy.gif" width="30"> مرحباً بك، أنا جهاد (jhad1234)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jhad1234/jhad1234/main/jhad_logo.png" width="200" alt="Jhad Logo" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=مساعد+تنفيذي+شامل;خبير+أتمتة+بالذكاء+الاصطناعي;مطور+أنظمة+Android+متقدمة;بناء+وكلاء+ذكاء+اصطناعي+مستقلين" alt="Typing SVG" />
+</p>
+
+---
+
+### 🏆 الجوائز والإنجازات (GitHub Trophies)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jhad1234&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -47,14 +58,15 @@
 | :--- | :--- | :--- |
 | **[AI-Android-Dev-System](https://github.com/jhad1234/AI-Android-Dev-System)** | نظام تشغيل ذكي مبني على الوكلاء لإدارة أجهزة الأندرويد. | Kotlin, AI Agents |
 | **[python-ai-agents](https://github.com/jhad1234/python-ai-agents)** | مكتبة شاملة لبناء وكلاء ذكاء اصطناعي مخصصين. | Python, OpenAI |
-| **[Simulator-](https://github.com/jhad1234/Simulator-)** | بيئة محاكاة متقدمة لاختبار خوارزميات الذكاء الاصطناعي. | Python, Pygame |
+| **[Simulator-](https://github.com/jhad1234/Simulator-)** | بيئة محاكاة متقدمة لشبكات الاتصالات اليمنية. | Python, srsRAN |
+| **[General-AI-Agent](https://github.com/jhad1234/General-AI-Agent)** | نظام وكيل ذكاء اصطناعي عام متكامل لإدارة المهام. | AI, Automation |
 
 ---
 
 ### 🤝 تواصل معي
 <p align="left">
   <a href="https://github.com/jhad1234"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:jhad1234@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:pxx7168311@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
