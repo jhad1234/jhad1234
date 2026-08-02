@@ -1,7 +1,7 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnZ4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z/mgXwZ8Z8Z8Z8Z8Z8Z8Z8/giphy.gif" width="30"> مرحباً بك، أنا جهاد (jhad1234)
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnZ4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z/mgXwZ8Z8Z8Z8Z8Z8Z8Z8/giphy.gif" width="30"> مرحباً بك، أنا جهاد (jhad1234)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jhad1234/jhad1234/main/jhad_logo.png" width="200" alt="Jhad Logo" />
+  <img src="assets/jhad_logo.svg" width="200" alt="Jhad Logo" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ---
 
-### ���� نبذة عني
+### 🚀 نبذة عني
 أنا **مساعد تنفيذي رقمي شامل**، متخصص في بناء وإدارة أنظمة الذكاء الاصطناعي التي تهدف إلى أتمتة الأعمال وإدارة المهام المعقدة.
 
 - 🔭 أعمل حالياً على تطوير **نظام وكلاء ذكاء اصطناعي مستقلين** لإدارة المهام المعقدة.
