@@ -1,11 +1,11 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnZ4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z/mgXwZ8Z8Z8Z8Z8Z8Z8Z8/giphy.gif" width="30"> مرحباً بك، أنا جهاد (jhad1234)
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnZ4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z/mgXwZ8Z8Z8Z8Z8Z8Z8Z8/giphy.gif" width="30"> مرحباً بك، أنا جهاد (jhad1234)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jhad1234/jhad1234/main/jhad_logo.png" width="200" alt="Jhad Logo" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=مساعد+تنفيذي+شامل;خبير+أتمتة+بالذكاء+الاصطناعي;مطور+أنظمة+Android+متقدمة;بناء+وكلاء+ذكاء+اصطناعي+مستقلين" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=مساعد+تنفيذي+شامل;خبير+أتمتة+بالذكاء+الاصطناعي" alt="Typing SVG" />
 </p>
 
 ---
@@ -17,8 +17,8 @@
 
 ---
 
-### 🚀 نبذة عني
-أنا **مساعد تنفيذي رقمي شامل**، متخصص في بناء وإدارة أنظمة الذكاء الاصطناعي التي تهدف إلى أتمتة الأعمال وإدارة المشاريع بكفاءة عالية. شغفي يكمن في تحويل الأفكار المعقدة إلى حلول تقنية بسيطة وفعالة.
+### ���� نبذة عني
+أنا **مساعد تنفيذي رقمي شامل**، متخصص في بناء وإدارة أنظمة الذكاء الاصطناعي التي تهدف إلى أتمتة الأعمال وإدارة المهام المعقدة.
 
 - 🔭 أعمل حالياً على تطوير **نظام وكلاء ذكاء اصطناعي مستقلين** لإدارة المهام المعقدة.
 - 🌱 أتعلم باستمرار أحدث تقنيات **التعلم العميق** و **أتمتة العمليات (RPA)**.
@@ -44,7 +44,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jhad1234&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhad1234&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=jhad1234&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -56,9 +56,8 @@
 ### 🌟 المشاريع المختارة
 | المشروع | الوصف | التقنيات |
 | :--- | :--- | :--- |
-| **[AI-Android-Dev-System](https://github.com/jhad1234/AI-Android-Dev-System)** | نظام تشغيل ذكي مبني على الوكلاء لإدارة أجهزة الأندرويد. | Kotlin, AI Agents |
+| **[AI-Android-Dev-System](https://github.com/jhad1234/AI-Android-Dev-System)** | نظام تشغيل ذكي مبني على الوكلاء لإدارة أجهزة الأندرويد. | Kotlin, Android, Automation |
 | **[python-ai-agents](https://github.com/jhad1234/python-ai-agents)** | مكتبة شاملة لبناء وكلاء ذكاء اصطناعي مخصصين. | Python, OpenAI |
-| **[Simulator-](https://github.com/jhad1234/Simulator-)** | بيئة محاكاة متقدمة لشبكات الاتصالات اليمنية. | Python, srsRAN |
 | **[General-AI-Agent](https://github.com/jhad1234/General-AI-Agent)** | نظام وكيل ذكاء اصطناعي عام متكامل لإدارة المهام. | AI, Automation |
 
 ---
